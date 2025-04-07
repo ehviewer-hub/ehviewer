@@ -1,4 +1,14 @@
-<h1 align="center">EhPanda</h1>
+<h1 align="center">ehviewer白色版</h1>
+
+<h3 class="heading-element" style="font-size:1.25em;font-weight:var(--base-text-weight-semibold, 600);color:#1F2328;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+<a href="http://ehviewer.k594.com/?20250407.html" rel="nofollow">👉👉👉♥♥-最-新-下-载-入-口-♥♥👈👈👈</a></h3>
+	<br>
+	<br>
+	<br>
+
+
+
+
 
 <h4 align="center">An unofficial E-Hentai App for iOS.</h4>
 
@@ -15,7 +25,7 @@
   <a href="/READMEs/README.chs.md">简体中文</a>
 </p>
 
-## 📢 Translations Wanted 📢
+## 📢 ehviewer白色版 📢
 Please submit a pull request if you want to help with translation.
 
 App Strings: [{lang}.lproj](/EhPanda/App)
@@ -28,7 +38,7 @@ https://ehpanda.app: [main.js](https://github.com/EhPanda-Team/ehpanda-website/b
 1. Get the ipa file from [Releases](https://github.com/EhPanda-Team/EhPanda/releases).
 2. Use some software like [AltStore](https://altstore.io) to install the ipa file on your device.
 
-## System Requirements
+## ehviewer白色版
 This app requires iOS / iPadOS 17.0 or later.
 
 ## Content & Copyright
